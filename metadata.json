@@ -1,0 +1,6 @@
+{
+  "name": "EVDHM-ARIMA PM Sensing",
+  "description": "Sensing of Particulate Matter (PM 2.5 and PM 10) in Tier 1, 2, and 3 Cities in India Using EVDHM-ARIMA Hybrid Model",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
